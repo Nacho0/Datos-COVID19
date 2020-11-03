@@ -1,4 +1,4 @@
-Region,Codigo region,fecha,r.estimado,r.liminf,r.lisup
+Region,Codigo region,fecha,estimado,liminf,lisup
 Arica y Parinacota,15,2020-03-08,3.2425182838164903,0.0,3.99
 Arica y Parinacota,15,2020-03-09,2.78380730380632,0.0,3.99
 Arica y Parinacota,15,2020-03-10,2.3379003378450802,0.0,3.99
